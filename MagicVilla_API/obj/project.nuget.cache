@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TzKUoSAuFthaCFbNHBiVHE/7LYubsjMJ3mUEG01sxZAjhWP5wMcKSv+/Q7OTS8UiQGoCC0kDsQCJTkW+I4ARdQ==",
+  "dgSpecHash": "qodQ4Y/hdqZ+Ybovxri9o8YFSuCVOt7dSFgOb7SWNHSVF0xrIiPXgM3BXyoHw0d76IS31RX5xBV5v1AGKZtyBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\Proyectos personales\\Proyectos .Net Core\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
